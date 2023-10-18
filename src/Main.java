@@ -19,5 +19,6 @@ public class Main {
         //Se pide extraer los primeros dos digitos
         //Se pide extraer los 10 ultimos
         //Se pide extraer de la posicion 4 a la 9
+        //hola
     }
 }
